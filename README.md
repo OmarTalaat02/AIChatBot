@@ -40,7 +40,7 @@ This is a real-time AI Chatbot application built using modern technologies such 
 - PostgreSQL installed and configured
 ### Steps
 1. Clone REPO
-- git clone https://github.com/<your-username>/AIChatBot.git
+- git clone https://github.com/"your-username"/AIChatBot.git
 
 2. Set up the backend
 - cd server
